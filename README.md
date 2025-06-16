@@ -2,6 +2,8 @@
 
 - **Created by**: [VoidApogee (YouTube)](https://youtube.com/@VoidApogee)
 
+![alt text](KOTH WEAPONS MAY25 (1).png)
+
 This chart details the compatibility of various weapons with a range of attachments, including suppressors and optics. A green checkmark (✅) indicates compatibility, while a red cross (❌) indicates incompatibility.
 
 | Weapon / Attachment | Aimpoint | Holo XH-1 | Barska | PK-06 | Elcan Specter DR | Elcan C79 | Eotech 6X9 | HMRD | Vudu | Lumex | M10 Scopes | M200 Scopes | Suppressor |
