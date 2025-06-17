@@ -1,13 +1,3 @@
----
-layout: page
-
-title: "Weapon-and-Attachment-Compatability"
-
-permalink: https://github.com/JustCue/KOTH-Reforged/blob/Pages/Pages/Weapon_Compatability.md
-
-id: Weapon-Compatibility
----
-
 # Weapon and Attachment Compatibility Chart
 
 - **Created by**: [VoidApogee (YouTube)](https://youtube.com/@VoidApogee)
