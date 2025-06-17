@@ -2,7 +2,7 @@
 
 - **Created by**: [VoidApogee (YouTube)](https://youtube.com/@VoidApogee)
 
-![kothpack](KOTHWEAPONSMAY25.png)
+![kothpack](https://github.com/JustCue/KOTH-Reforged/blob/main/KOTHWEAPONSMAY25.png)
 
 This chart details the compatibility of various weapons with a range of attachments, including suppressors and optics. A green checkmark (✅) indicates compatibility, while a red cross (❌) indicates incompatibility.
 
