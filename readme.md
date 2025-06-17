@@ -6,6 +6,6 @@
 
 ### [Server Rules](Pages/rules.md)
 
-### [Strike System](https://github.com/JustCue/KOTH-Reforged/wiki/Strike-System)
+### [Strike System](Pages/Strike_System.md)
 
-### [Weapon Attachment Compatibility](Pages/Weapon Compatability.md)
+### [Weapon Attachment Compatibility](Pages/Weapon_Compatability.md)
