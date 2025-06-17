@@ -1,3 +1,4 @@
+---
 layout: page
 
 title: "Weapon-and-Attachment-Compatability"
