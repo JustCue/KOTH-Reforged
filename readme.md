@@ -4,7 +4,7 @@
 
 ### Below are links to several resources for players
 
-### [Server Rules](Pages/Rules)
+### [Server Rules](Pages/rules.md)
 
 ### [Strike System](https://github.com/JustCue/KOTH-Reforged/wiki/Strike-System)
 
