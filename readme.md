@@ -1,4 +1,4 @@
-# **__✪ Welcome to the KOTH Reforged Wiki__**
+# **_✪ Welcome to the KOTH Reforged Wiki_**
 
 ## Join the [KOTH REFORGED DISCORD](https://discord.kothreforged.com/) to be apart of our community and to stay up to date on the development of KOTH Reforged.
 
