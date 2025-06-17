@@ -8,4 +8,4 @@
 
 ### [Strike System](https://github.com/JustCue/KOTH-Reforged/wiki/Strike-System)
 
-### [Weapon Attachment Compatibility](https://github.com/JustCue/KOTH-Reforged/wiki/Weapon-attachment-compatability)
+### [Weapon Attachment Compatibility](Pages/Weapon Compatability.md)
