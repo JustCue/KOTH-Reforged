@@ -3,7 +3,7 @@ layout: page
 
 title: "Weapon-and-Attachment-Compatability"
 
-permalink: https://github.com/JustCue/KOTH-Reforged/blob/main/Pages/Weapon_Compatability.md
+permalink: https://github.com/JustCue/KOTH-Reforged/blob/Pages/Pages/Weapon_Compatability.md
 
 id: Weapon-Compatibility
 ---
