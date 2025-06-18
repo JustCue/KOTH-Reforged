@@ -1,4 +1,4 @@
-[Rules](https://justcue.github.io/KOTH-Reforged/Pages/rules.html) [Weapon compatability](https://justcue.github.io/KOTH-Reforged/Pages/Weapon_Compatability.html)
+[Rules](https://justcue.github.io/KOTH-Reforged/Pages/rules.html)         [Weapon compatability](https://justcue.github.io/KOTH-Reforged/Pages/Weapon_Compatability.html)
 
 # Strike System
 ### Our community uses a universal strike system for handling infractions, both in-game and on Discord. Here's how it works:
