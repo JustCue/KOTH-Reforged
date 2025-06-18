@@ -1,3 +1,5 @@
+>[Home](https://justcue.github.io/KOTH-Reforged/)
+>
 > [Rules](https://justcue.github.io/KOTH-Reforged/Pages/rules.html)
 >
 > [Strike System](https://justcue.github.io/KOTH-Reforged/Pages/Strike_System.html)
