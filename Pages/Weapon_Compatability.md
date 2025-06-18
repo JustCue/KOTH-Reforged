@@ -1,3 +1,7 @@
+> [Rules](https://justcue.github.io/KOTH-Reforged/Pages/rules.html)
+>
+> [Strike System](https://justcue.github.io/KOTH-Reforged/Pages/Strike_System.html)
+
 # Weapon and Attachment Compatibility Chart
 
 - **Created by**: [VoidApogee (YouTube)](https://youtube.com/@VoidApogee)
