@@ -1,4 +1,5 @@
 >[!Rules](https://justcue.github.io/KOTH-Reforged/Pages/rules.html)
+>
 >[!Weapon compatability](https://justcue.github.io/KOTH-Reforged/Pages/Weapon_Compatability.html)
 
 # Strike System
