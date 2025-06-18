@@ -1,3 +1,7 @@
+>[Strike System](https://justcue.github.io/KOTH-Reforged/Pages/Strike_System.html)
+>
+>[Weapon Compatability](https://justcue.github.io/KOTH-Reforged/Pages/Weapon_Compatability.html)
+
 # **__✪ KOTH Reforged In-Game Rules__**
 ‎ 
 > ### **1.0) TEAM KILLING:**
