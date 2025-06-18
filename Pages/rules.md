@@ -1,3 +1,5 @@
+>[Home](https://justcue.github.io/KOTH-Reforged/)
+>
 >[Strike System](https://justcue.github.io/KOTH-Reforged/Pages/Strike_System.html)
 >
 >[Weapon Compatability](https://justcue.github.io/KOTH-Reforged/Pages/Weapon_Compatability.html)
