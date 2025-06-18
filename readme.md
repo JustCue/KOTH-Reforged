@@ -12,4 +12,4 @@
 
 
 ![weapon Compat](https://github.com/JustCue/KOTH-Reforged/blob/Pages/KOTHWEAPONSMAY25.png)
-<img src=".KOTHWEAPONSMAY25.png" alt="kothpack">
+<img src="[.KOTHWEAPONSMAY25.png](https://github.com/JustCue/KOTH-Reforged/blob/Pages/KOTHWEAPONSMAY25.png)" alt="kothpack">
