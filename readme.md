@@ -9,3 +9,6 @@
 ### [Strike System](Pages/Strike_System.md)
 
 ### [Weapon Attachment Compatibility](Pages/Weapon_Compatability.md)
+
+
+[!weapon Compat](https://github.com/JustCue/KOTH-Reforged/blob/Pages/KOTHWEAPONSMAY25.png)
